@@ -2,7 +2,7 @@
 This project performs an in-depth analysis of Blinkit grocery sales data using SQL. The goal is to derive key performance indicators (KPIs) and gain insights into the factors that influence sales performance.
 
 **Dataset**
-The dataset used for this analysis is BLINKIT - DATA/BlinkIT Grocery Data.csv. It contains transactional data for various products sold through different Blinkit outlets.
+The dataset used for this analysis is BLINKIT - BlinkIT.csv. It contains transactional data for various products sold through different Blinkit outlets.
 
 Dataset Columns
 Item_Fat_Content: The fat content of the product (e.g., 'Low Fat', 'Regular').
@@ -44,5 +44,4 @@ A comprehensive breakdown of all KPIs by outlet type.
 How to Use
 To replicate this analysis, you will need a SQL environment with the ability to import data from a CSV file.
 
-Load the Data: Import the BLINKIT - DATA/BlinkIT Grocery Data.csv file into a table named blinkit_data in your database.
-Run the Queries: Execute the queries from the Blinkit_Data Query.sql file against the blinkit_data table to perform the analysis.
+
